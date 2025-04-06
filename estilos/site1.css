@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to right), #ADD8E6,rgb(138, 138, 156)
+}
+main{
+    background-color: aliceblue;
+    width: 600px;
+    box-shadow: 5px 5px 10px rgb(53, 53, 108);
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+}
+h1{
+    color: #10566d;
+}
+h2{
+    color: #10303a;
+}
+p{
+    text-align: justify;
+}
+
